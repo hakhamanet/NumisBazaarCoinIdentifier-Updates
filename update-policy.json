@@ -1,7 +1,7 @@
 {
   "platform": "android",
   "latestBuild": 10024,
-  "minimumSupportedBuild": 1,
+  "minimumSupportedBuild": 10024,
   "latestVersion": "0.1.23",
   "downloadUrl": "https://github.com/hakhamanet/NumisBazaarCoinIdentifier-Updates/releases/download/android-10024/coin-identifier-0.1.23.apk",
   "releaseNotes": "Automated Android build from main"
